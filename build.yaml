@@ -26,6 +26,5 @@ include:
   # Change the board appropriately, you can use any board
   - board: nice_nano_v2
     shield: skeletyl_dongle
-    cmake-args: -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=y
   - board: nice_nano_v2
     shield: settings_reset
