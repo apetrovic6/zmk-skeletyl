@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: skeletyl_left
+    shield: skeletyl_left nice_view_adapter nice_view
   - board: nice_nano_v2
-    shield: skeletyl_right
+    shield: skeletyl_right nice_view_adapter nice_view
   - board: nice_nano_v2
     shield: settings_reset
